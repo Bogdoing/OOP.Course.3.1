@@ -1,0 +1,17 @@
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\OOP.Course31.1.exe
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\OOP.Course31.1.deps.json
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\OOP.Course31.1.runtimeconfig.json
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\OOP.Course31.1.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\OOP.Course31.1.pdb
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.csproj.AssemblyReference.cache
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31._1.Form1.resources
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.csproj.GenerateResource.cache
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.AssemblyInfoInputs.cache
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.AssemblyInfo.cs
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.csproj.CoreCompileInputs.cache
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\refint\OOP.Course31.1.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.pdb
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.genruntimeconfig.cache
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\ref\OOP.Course31.1.dll
