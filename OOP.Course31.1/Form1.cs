@@ -1,5 +1,6 @@
 
 
+using OOP.Course31._1.Forms;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -99,6 +100,15 @@ namespace OOP.Course31._1
             }
         }
 
+        private void button_cansel_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3addrandom form3Addrandom = new Form3addrandom();
+            form3Addrandom.ShowDialog();
+        }
     }
 }

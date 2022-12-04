@@ -23,3 +23,4 @@ D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows
 D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.csproj.CopyComplete
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31._1.Forms.Form3addrandom.resources
