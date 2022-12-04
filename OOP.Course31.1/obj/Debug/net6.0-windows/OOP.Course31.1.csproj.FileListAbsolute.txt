@@ -15,3 +15,11 @@ D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows
 D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.pdb
 D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.genruntimeconfig.cache
 D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\ref\OOP.Course31.1.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31._1.Forms.Form2add.resources
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\files\CODE\C#\Cours3_1\OOP.Course31.1\OOP.Course31.1\obj\Debug\net6.0-windows\OOP.Course31.1.csproj.CopyComplete
